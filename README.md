@@ -1,6 +1,6 @@
 # Project Title: FOOD-DELIVERY
 
-# Description for Food Delivery Project:
+# Description for online Food Delivery Project:
 It is an online food delivery system that enables customers to order food from a variety of restaurants through a website . The system allows users to browse menus, place orders, make secure payments, and track deliveries in real-time. Its purpose is to provide a convenient and efficient way for customers to enjoy meals without visiting restaurants, while also helping restaurants manage orders and expand their reach. Overall, it aims to enhance the food ordering experience for both customers and service providers.
 
 #Full Nmae and studentID:
